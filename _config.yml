@@ -1,0 +1,22 @@
+title: Portugal Agile Leaders Network
+description: >-
+  Comunidade de prática dos líderes de transformação ágil das grandes
+  empresas a operar em Portugal.
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+logo: /imagens/logo-200.jpg
+
+# O conteúdo vive no repositório paln-publico
+just_the_docs:
+  collections: {}
+
+exclude:
+  - README.md
+  - vendor
+
+kramdown:
+  input: GFM
