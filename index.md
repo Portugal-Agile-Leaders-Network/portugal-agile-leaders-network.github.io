@@ -6,8 +6,6 @@ nav_order: 1
 
 # Portugal Agile Leaders Network
 
-![Logo Portugal Agile Leaders Network](imagens/logo-200.jpg)
-
 > A comunidade de prática dos líderes de transformação ágil das grandes empresas a operar em Portugal.
 
 ## Quem somos
@@ -26,9 +24,9 @@ A adesão é da empresa, não da pessoa: cada organização-membro designa dois 
 ## Neste site
 
 - [Regulamento da comunidade](https://portugal-agile-leaders-network.github.io/paln-publico/regulamento/regulamento.html) — regras, compromissos e confidencialidade
-- [Biblioteca de facilitação](https://portugal-agile-leaders-network.github.io/paln-publico/facilitacao/README.html) — técnicas e icebreakers testados nos nossos encontros
+- [Biblioteca de facilitação](https://portugal-agile-leaders-network.github.io/paln-publico/facilitacao/index.html) — técnicas e icebreakers testados nos nossos encontros
 - [Eventos](https://portugal-agile-leaders-network.github.io/paln-publico/eventos/2026-10-16-evento-03/agenda.html) — agendas e materiais públicos dos encontros
-- Repositório de conteúdos: [paln-publico](https://github.com/Portugal-Agile-Leaders-Network/paln-publico)
+- Conteúdos completos: [paln-publico](https://portugal-agile-leaders-network.github.io/paln-publico/)
 
 ## Participar
 
