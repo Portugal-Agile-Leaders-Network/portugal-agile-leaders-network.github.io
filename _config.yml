@@ -8,15 +8,41 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
+url: https://portugal-agile-leaders-network.github.io
+
 logo: /imagens/logo-200.jpg
 
-# O conteúdo vive no repositório paln-publico
-just_the_docs:
-  collections: {}
+# Paleta personalizada PALN
+color_scheme: paln
+
+# Pesquisa: botão visível no topo da página
+search_enabled: true
+search:
+  button: true
+  previews: 2
+  preview_words_before: 3
+  preview_words_after: 3
+
+# Link para o repositório GitHub no menu
+nav_external_links:
+  - title: PALN no GitHub
+    url: https://github.com/Portugal-Agile-Leaders-Network/paln-publico
+    hide_icon: false
+
+collections:
+  regulamento:
+    output: true
+  facilitacao:
+    output: true
+  eventos:
+    output: true
 
 exclude:
   - README.md
   - vendor
+
+# Fontes via Google Fonts
+heading_anchors: true
 
 kramdown:
   input: GFM
